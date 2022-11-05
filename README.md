@@ -1,2 +1,2 @@
-# -leriProgramlama
+# IleriProgramlama
 İleriProglamaDers1
